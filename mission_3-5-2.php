@@ -4,8 +4,8 @@
 <form method="2post" action="mission_3-5-2.php" >
 <div>
 <?php
-		$dsn="TECH-BASE-shimizu-yudai";
-		$user="shimizu-yudai";
+		$dsn="データベース名";
+		$user="ユーザー名";
 		$password="パスワード";
  //編集元のテキストを、投稿フォームに表示させる
  //2.編集フォームで処理を分岐させる
