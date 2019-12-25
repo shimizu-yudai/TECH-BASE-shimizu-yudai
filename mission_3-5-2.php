@@ -6,7 +6,7 @@
 <?php
 		$dsn="TECH-BASE-shimizu-yudai";
 		$user="shimizu-yudai";
-		$password="cmt72635";
+		$password="パスワード";
  //編集元のテキストを、投稿フォームに表示させる
  //2.編集フォームで処理を分岐させる
 if(isset($_POST["hensyuuNO"])){
